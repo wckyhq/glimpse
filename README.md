@@ -1,7 +1,8 @@
 ## Welcome to Glimpse 🌴
 
 <div style="text-align: center;
-    <a href="https://github.com/wckyhq/glimpse/blob/main/misc/ABOUT.md">About</a>
+    
+<a href="https://github.com/wckyhq/glimpse/blob/main/misc/ABOUT.md">About</a>
 
 </div>
 
