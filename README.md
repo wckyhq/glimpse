@@ -1,6 +1,7 @@
 ## Welcome to Glimpse 🌴
 
-- [[/misc/ABOUT.md|About]] 
+- [About this list](/misc/ABOUT.md)
+- [Contributing](/misc/CONTRIBUTE.md)
 
 A collection of addiction-cessation resources for your brain and body - both free and paid.
 
