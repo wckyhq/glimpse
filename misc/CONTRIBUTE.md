@@ -10,7 +10,7 @@
 
 # Pull Requests
 
-If you are familiar with Github, you can make a Pull Request - this is the prefered way.
+If you are familiar with Github, you can make a Pull Request - this is the preferred way.
 
 If you are not familiar with Github and PRs you can open a new issue and explain what you want to add there.
 
