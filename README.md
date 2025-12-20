@@ -4,7 +4,7 @@ This is a collection of addiction-cessation resources for your brain and body - 
 - [About this list](/misc/ABOUT.md)
 - [Contributing](/misc/CONTRIBUTE.md)
 
->[!IMPORTANT]
+> [!IMPORTANT]
 > Currently, this list has a focus on pornography-related resources, with a few resources on other addictions - give me a chance!
 
 ## Contents
