@@ -15,7 +15,7 @@ Glimpse is a collection of addiction-cessation resources that actually work.
 
 ## Alcohol
 
-- [💸](#icons) [Kick the Drink Easily](https://openlibrary.org/works/OL17551023W/Kick_the_Drink_Easily) - a book on escaping alcholism
+- [💸](#icons) [Kick the Drink Easily](https://openlibrary.org/works/OL17551023W/Kick_the_Drink_Easily) - a book on escaping alcholism.
 
 ## Pornography
 
