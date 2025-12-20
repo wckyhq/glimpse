@@ -6,12 +6,12 @@ A collection of addiction-cessation resources for your brain and body - both fre
 
 ## Contents
 
-- [[#alcohol]]
+- [Alcohol](#alcohol)
 
 
 ## Alcohol
 
-- [[#icons|💸]] [Kick the Drink Easily - Jason Vale](https://openlibrary.org/works/OL17551023W/Kick_the_Drink_Easily)
+- [💸](#icons) [Kick the Drink Easily - Jason Vale](https://openlibrary.org/works/OL17551023W/Kick_the_Drink_Easily)
 
 ## Icons
 
