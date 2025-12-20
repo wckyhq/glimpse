@@ -6,7 +6,7 @@
 - [x] Preferably open-source - if not, then organisation/company/author must respect privacy (no sign-ups, etc)
 - [x] Preferably free - freeing youreself from addiciton shouldn't be paywalled!
 
-> Every resource will be investigated to be sure its correct for everyone - I am only human, so I may make mitakes!
+> Every resource will be investigated to be sure its correct for everyone - I am only human, so I may make mistakes!
 
 # Pull Requests
 
