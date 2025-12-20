@@ -19,8 +19,8 @@ Glimpse is a collection of addiction-cessation resources that actually work.
 
 ## Pornography
 
-- [🆓](#icons) [Burgeon Book](https://www.scribd.com/document/635921955/Burgeon) - an e-book on escaping pornography.
-- [🆓](#icons) [The Easy Peasy Method](https://easypeasymethod.org/) - a much shorter and condensed e-book on escaping pornography.
+- [🆓](#icons) [Burgeon Book](https://www.scribd.com/document/635921955/Burgeon) - a much shorter and condensed e-book on escaping pornography.
+- [🆓](#icons) [The Easy Peasy Method](https://easypeasymethod.org/) - an e-book on escaping pornography.
 
 ## Smoking / Vaping
 
