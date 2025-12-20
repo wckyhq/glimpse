@@ -1,5 +1,5 @@
 ## Welcome to Glimpse 🌴
-This is a collection of addiction-cessation resources for your brain and body - both free and paid.
+Glimpse is a collection of addiction-cessation resources that actually work
 
 - [About this list](/misc/ABOUT.md)
 - [Contributing](/misc/CONTRIBUTE.md)
