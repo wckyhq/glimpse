@@ -1,4 +1,4 @@
-# Welcome to Glimpse 🌴
+## Welcome to Glimpse 🌴
 
 A collection of addiction-cessation resources for your brain and body - both free and paid.
 
@@ -6,12 +6,12 @@ A collection of addiction-cessation resources for your brain and body - both fre
 
 ## Contents
 
-- [[#Alcohol]]
+- [[#alcohol]]
 
 
 ## Alcohol
 
-- [[#Icons|💸]] [Kick the Drink Easily - Jason Vale](https://openlibrary.org/works/OL17551023W/Kick_the_Drink_Easily)
+- [[#icons|💸]] [Kick the Drink Easily - Jason Vale](https://openlibrary.org/works/OL17551023W/Kick_the_Drink_Easily)
 
 ## Icons
 
