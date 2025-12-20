@@ -22,7 +22,6 @@ To add a new section copy the following template and complete with the informati
 
 - [💸/🆓 Icon](#icons) [Resource Name](https://link-to-source-or-page) - Little description of the resource
 
-
 ```
 You also need to add the section to the **Table of Contents (Contents)** at the top of the document:
 
