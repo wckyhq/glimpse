@@ -26,6 +26,6 @@ A collection of addiction-cessation resources for your brain and body - both fre
 ## Icons
 
 | Icon | Meaning           |
-| ---- | ----------------- |
+| ---- | :---------------: |
 | 💸   | Paid for resource |
 | 🆓   | Free resource     |
