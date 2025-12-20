@@ -1,11 +1,10 @@
 ## Welcome to Glimpse 🌴
+This is a collection of addiction-cessation resources for your brain and body - both free and paid.
 
 - [About this list](/misc/ABOUT.md)
 - [Contributing](/misc/CONTRIBUTE.md)
 
-A collection of addiction-cessation resources for your brain and body - both free and paid.
-
-> Currently, this list has a focus on pornography addiction resources. I am compiling resources for other addictions with help from a friends and family - bear with me!
+> Currently, this list has a focus on pornography-related resources, with a few resources on other addictions - give me a chance!
 
 ## Contents
 
