@@ -30,5 +30,5 @@ A collection of addiction-cessation resources for your brain and body - both fre
 
 | Icon | Meaning           |
 | :---: | :---------------: |
-| 💸   | Paid for resource |
+| 💸   | Paid resource |
 | 🆓   | Free resource     |
