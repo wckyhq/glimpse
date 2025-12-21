@@ -4,8 +4,8 @@ Glimpse is a collection of addiction-cessation resources that actually work.
 - [About this list](/misc/ABOUT.md)
 - [Contributing](/misc/CONTRIBUTE.md)
 
-> [!IMPORTANT]
-> Currently, this list has a focus on pornography-related resources, with a few resources on other addictions - give me a chance!
+> [!NOTE]
+> The answers lie within yourself. Yet we have been told to look everywhere but ourselves for answers.
 
 ## Contents
 
