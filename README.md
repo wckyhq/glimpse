@@ -4,9 +4,6 @@ Glimpse is a collection of addiction-cessation resources that actually work.
 - [About this list](/misc/ABOUT.md)
 - [Contributing](/misc/CONTRIBUTE.md)
 
-> [!NOTE]
-> The answers lie within yourself. Yet we have been told to look everywhere but ourselves for answers.
-
 ## Contents
 
 - [Alcohol](#alcohol)
