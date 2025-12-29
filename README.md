@@ -1,5 +1,7 @@
-## Welcome to Glimpse 🌴
-Glimpse is a collection of addiction-cessation resources that actually work.
+<img src="misc/images/glimpse-banner.png" alt="glimpse-banner">
+
+
+### Glimpse is a collection of addiction-cessation resources that actually work.
 
 - [About this list](/misc/ABOUT.md)
 - [Contributing](/misc/CONTRIBUTE.md)
