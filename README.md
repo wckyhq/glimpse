@@ -5,6 +5,7 @@
 
 - [About this list](/misc/ABOUT.md)
 - [Contributing](/misc/CONTRIBUTE.md)
+- [Share Glimpse on Social media](/misc/shareables/Shareables)
 
 ## Contents
 
