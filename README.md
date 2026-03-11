@@ -7,6 +7,9 @@
 - [Contributing](/misc/CONTRIBUTE.md)
 - [Share Glimpse on Social media](/misc/shareables/Shareables)
 
+> [!NOTE]
+> Next steps: Glimpse was never designed to be on Github - it just isn't user-friendly. A website is on the way, it's going to be awesome.
+
 ## Contents
 
 - [All Addictions](#all-addictions)
