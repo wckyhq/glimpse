@@ -8,7 +8,7 @@
 - [Share Glimpse on Social media](/misc/shareables/Shareables)
 
 > [!NOTE]
-> Next steps: Glimpse was never designed to be on Github - it just isn't user-friendly. A website is on the way, it's going to be awesome.
+> The Glimpse website is now live! Check out [here](https://www.glimpsefoundation.net/)
 
 ## Contents
 
